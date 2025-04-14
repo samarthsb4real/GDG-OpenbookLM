@@ -29,8 +29,8 @@ OpenbookLM is an educational platform built with Next.js. It features a dashboar
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/spyderweb.git
-    cd spyderweb
+    https://github.com/samarthsb4real/GDG-OpenbookLM.git
+    cd GDG-OpenbookLM
     ```
 
 2. Install dependencies:
